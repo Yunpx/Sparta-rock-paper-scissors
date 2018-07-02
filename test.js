@@ -69,7 +69,7 @@ Scissors beats Paper
 // 2,0 2 s=-1
 // 2,1 1 s=1
 // 2,2 0 s=0
-//
+// 
 // result = 1 win ,-2 win
 // result = -1, 2 lose
 // result = 0 draw
